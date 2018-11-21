@@ -1,0 +1,75 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\bin\Debug\AITLibrarY.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\bin\Debug\AITLibrarY.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\bin\Debug\AITLibrarY.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\bin\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\bin\Debug\DataAccessLayer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\bin\Debug\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.Login.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.Search.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.MainMenu.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.AdminPage.resources
+C:\Users\admin\documents\visual studio 2013\Projects\AITLibrary\AITLibrarY\bin\Debug\EntityFramework.dll
+C:\Users\admin\documents\visual studio 2013\Projects\AITLibrary\AITLibrarY\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\documents\visual studio 2013\Projects\AITLibrary\AITLibrarY\bin\Debug\EntityFramework.xml
+C:\Users\admin\documents\visual studio 2013\Projects\AITLibrary\AITLibrarY\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.TabBorrow.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.TabReserve.resources
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\bin\Debug\AITLibrarY.exe.config
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.exe
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.pdb
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\bin\Debug\AITLibrarY.exe
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\bin\Debug\AITLibrarY.pdb
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\bin\Debug\BusinessLogic.dll
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\bin\Debug\DataAccessLayer.dll
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\bin\Debug\EntityFramework.dll
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\bin\Debug\EntityFramework.SqlServer.dll
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\bin\Debug\BusinessLogic.pdb
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\bin\Debug\DataAccessLayer.pdb
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\bin\Debug\EntityFramework.xml
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\bin\Debug\EntityFramework.SqlServer.xml
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\obj\Debug\View.csprojResolveAssemblyReference.cache
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.AdminPage.resources
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.Login.resources
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.MainMenu.resources
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.Properties.Resources.resources
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.Search.resources
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.TabBorrow.resources
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.TabReserve.resources
+D:\IT\Year 2\Enterprise sys\New folder\AITLibrarY\AITLibrarY\obj\Debug\View.csproj.GenerateResource.Cache
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\bin\Debug\AITLibrarY.exe.config
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.exe
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.pdb
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.AdminMainPage.resources
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.AdminUserPage.resources
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.Login.resources
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.MainMenu.resources
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.Properties.Resources.resources
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.Search.resources
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.TabBorrow.resources
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.TabReserve.resources
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\View.csproj.GenerateResource.Cache
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\bin\Debug\AITLibrarY.exe
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\bin\Debug\AITLibrarY.pdb
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\bin\Debug\BusinessLogic.dll
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\bin\Debug\DataAccessLayer.dll
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\bin\Debug\EntityFramework.dll
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\bin\Debug\EntityFramework.SqlServer.dll
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\bin\Debug\BusinessLogic.pdb
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\bin\Debug\DataAccessLayer.pdb
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\bin\Debug\EntityFramework.xml
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\bin\Debug\EntityFramework.SqlServer.xml
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.TabReturn.resources
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.AdminDirectorPage.resources
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.AdminGenrePage.resources
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.AdminLanguagePage.resources
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.AdminMediaPage.resources
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\bin\Debug\DataAccessLayer.dll.config
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\View.csprojAssemblyReference.cache
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\View.csproj.CoreCompileInputs.cache
+D:\IT\Year 2\Enterprise sys\New folder\test\AITLibrarY\AITLibrarY\obj\Debug\View.csproj.CopyComplete

@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2013\Projects\AITLibrarY\AITLibrarY\bin\Debug\AITLibrarY.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.Login.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.Search.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\bin\Debug\AITLibrarY.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\bin\Debug\AITLibrarY.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\bin\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\bin\Debug\DataAccessLayer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\bin\Debug\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\AITLibrarY\AITLibrarY\obj\Debug\AITLibrarY.pdb

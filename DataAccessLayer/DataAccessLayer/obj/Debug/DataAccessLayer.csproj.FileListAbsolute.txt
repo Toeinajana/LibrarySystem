@@ -1,0 +1,19 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\IT\Year 2\Enterprise sys\New folder\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\IT\Year 2\Enterprise sys\New folder\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\IT\Year 2\Enterprise sys\New folder\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\IT\Year 2\Enterprise sys\New folder\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\IT\Year 2\Enterprise sys\New folder\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\IT\Year 2\Enterprise sys\New folder\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\IT\Year 2\Enterprise sys\New folder\test\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\IT\Year 2\Enterprise sys\New folder\test\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\IT\Year 2\Enterprise sys\New folder\test\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\IT\Year 2\Enterprise sys\New folder\test\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\IT\Year 2\Enterprise sys\New folder\test\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\IT\Year 2\Enterprise sys\New folder\test\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\IT\Year 2\Enterprise sys\New folder\test\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache

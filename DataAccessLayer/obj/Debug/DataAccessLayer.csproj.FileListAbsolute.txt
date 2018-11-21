@@ -1,0 +1,16 @@
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\IT\Year 2\Enterprise sys\New folder\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\IT\Year 2\Enterprise sys\New folder\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\IT\Year 2\Enterprise sys\New folder\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\IT\Year 2\Enterprise sys\New folder\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\IT\Year 2\Enterprise sys\New folder\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\IT\Year 2\Enterprise sys\New folder\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

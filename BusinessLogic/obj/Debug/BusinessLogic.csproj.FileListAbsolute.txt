@@ -1,0 +1,21 @@
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\BusinessLogic\bin\Debug\DataAccessLayer.dll
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\BusinessLogic\bin\Debug\DataAccessLayer.dll
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\IT\Year 2\Enterprise sys\New folder\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\IT\Year 2\Enterprise sys\New folder\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\IT\Year 2\Enterprise sys\New folder\BusinessLogic\bin\Debug\DataAccessLayer.dll
+D:\IT\Year 2\Enterprise sys\New folder\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+D:\IT\Year 2\Enterprise sys\New folder\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\IT\Year 2\Enterprise sys\New folder\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\IT\Year 2\Enterprise sys\New folder\BusinessLogic\obj\Debug\BusinessLogic.pdb

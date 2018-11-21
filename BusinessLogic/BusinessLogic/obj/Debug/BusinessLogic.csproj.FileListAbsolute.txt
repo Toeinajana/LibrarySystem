@@ -1,0 +1,24 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\BusinessLogic\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\BusinessLogic\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\BusinessLogic\BusinessLogic\bin\Debug\DataAccessLayer.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\BusinessLogic\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\IT\Year 2\Enterprise sys\New folder\BusinessLogic\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\IT\Year 2\Enterprise sys\New folder\BusinessLogic\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\IT\Year 2\Enterprise sys\New folder\BusinessLogic\BusinessLogic\bin\Debug\DataAccessLayer.dll
+D:\IT\Year 2\Enterprise sys\New folder\BusinessLogic\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+D:\IT\Year 2\Enterprise sys\New folder\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\IT\Year 2\Enterprise sys\New folder\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\IT\Year 2\Enterprise sys\New folder\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\IT\Year 2\Enterprise sys\New folder\test\BusinessLogic\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\IT\Year 2\Enterprise sys\New folder\test\BusinessLogic\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\IT\Year 2\Enterprise sys\New folder\test\BusinessLogic\BusinessLogic\bin\Debug\DataAccessLayer.dll
+D:\IT\Year 2\Enterprise sys\New folder\test\BusinessLogic\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+D:\IT\Year 2\Enterprise sys\New folder\test\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\IT\Year 2\Enterprise sys\New folder\test\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\IT\Year 2\Enterprise sys\New folder\test\BusinessLogic\BusinessLogic\bin\Debug\DataAccessLayer.dll.config
+D:\IT\Year 2\Enterprise sys\New folder\test\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\IT\Year 2\Enterprise sys\New folder\test\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\IT\Year 2\Enterprise sys\New folder\test\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
